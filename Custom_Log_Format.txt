@@ -3,3 +3,4 @@
 
 # Traffic Log
 ,$receive_time,,$type,$subtype,,,$src,$dst,$natsrc,$natdst,$rule,$srcuser,$dstuser,$app,,$from,$to,$inbound_if,$outbound_if,,,,,$sport,$dport,$natsport,$natdport,,$proto,$action,$bytes,$bytes_sent,$bytes_received,$packets,,,$category,,,,,,,$pkts_sent,$pkts_received,$session_end_reason
+
